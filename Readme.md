@@ -1,7 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<p>
+   <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/78c11128c6f9c575accb2fd4d86cec72/43d3114de9d9d846-a7/s400x600/59c211ef8dbfc6428d6690cbd611b0418ca35daf.gif" />
+     <br>
 </div>
 <div id="badges">
+  </p>
   <a href="https://www.facebook.com/F.Ena.2001/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -18,7 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.imgur.com/jTZ7RZw.gif" width="600" height="350"/>
 </div>
 ---
 
