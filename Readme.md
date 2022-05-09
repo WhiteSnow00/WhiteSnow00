@@ -3,7 +3,7 @@
   <img src="https://64.media.tumblr.com/78c11128c6f9c575accb2fd4d86cec72/43d3114de9d9d846-a7/s400x600/59c211ef8dbfc6428d6690cbd611b0418ca35daf.gif" />
      <br>
 </div>
-<div id="badges">
+<div align="center" id="badges">
   </p align="center">
   <a href="https://www.facebook.com/F.Ena.2001/">
     <img align="center"
@@ -17,8 +17,8 @@
     <img align="center"
          src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=WhiteSnow00&style=flat-square&color=blue" alt=""/>
+</div >
+<img align="center" src="https://komarev.com/ghpvc/?username=WhiteSnow00&style=flat-square&color=blue" alt=" "/>
 <h1>
   Welcome To My Github Pages
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
