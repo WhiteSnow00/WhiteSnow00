@@ -41,7 +41,9 @@ I am a Weeb from VietNam.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WhiteSnow00&theme=dark&background=000000)](https://git.io/streak-stats)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
