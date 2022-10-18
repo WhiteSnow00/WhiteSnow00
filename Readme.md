@@ -42,7 +42,7 @@ I am a Weeb from VietNam.
 
 ### My Stats :
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/WhiteSnow00" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&show_icons=true&include_all_commits=true&theme=night)](https://github.com/WhiteSnow00" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/WhiteSnow00?tab=repositories)
