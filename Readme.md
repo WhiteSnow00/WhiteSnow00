@@ -44,5 +44,5 @@ I am a Weeb from VietNam.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSnow00&show_icons=true&include_all_commits=true&theme=tokyonight)](https://www.youtube.com/watch?v=GtL1huin9EE)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&langs_count=10&theme=tokyonight)](https://www.youtube.com/watch?v=xMuBORZmLC8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&langs_count=10&theme=tokyonight)](https://www.youtube.com/watch?v=n1XUDCaGvgQ)
 
