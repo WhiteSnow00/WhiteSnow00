@@ -45,5 +45,5 @@ I am a Weeb from VietNam.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/WhiteSnow00?tab=repositories)
 
