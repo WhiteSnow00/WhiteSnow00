@@ -39,7 +39,7 @@ I am a Weeb from VietNam.
 -  I Play Osu, Genshin, Arena Of Valor, Honkai Impact 3, Blue Archive
 
 ### ⛄ Genshin Impact
-[![WhiteSnow00](https://genshin-card.getloli.com/58/76311298.png)](https://www.youtube.com/watch?v=0bq0dfrSRLk)
+[![WhiteSnow00](https://genshin-card.getloli.com/58/76311298.png)](https://www.youtube.com/watch?v=5RvrTBMcIeo)
 
 ---
 ### My Stats :
