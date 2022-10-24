@@ -31,7 +31,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Weeb from VietNam.
+I'm Weeb from VietNam.
 -  I'm not a dev, I study code because my mom want me to
 
 -  I Spend Most Of My Time To Play Games
