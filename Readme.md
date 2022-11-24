@@ -1,6 +1,6 @@
 <p>
    <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/78c11128c6f9c575accb2fd4d86cec72/43d3114de9d9d846-a7/s400x600/59c211ef8dbfc6428d6690cbd611b0418ca35daf.gif" />
+  <img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaka.gif" />
      <br>
 </div>
 <div align="center" id="badges">
