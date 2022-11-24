@@ -32,7 +32,7 @@
 
 ### :woman_technologist: About Me :
 I'm Weeb from VietNam.
--  I'm not a dev, I study code because my mom want me to
+-  Weeb Modder, Known Nothing But Wanna Do Everything
 
 -  I Spend Most Of My Time To Play Games
 
