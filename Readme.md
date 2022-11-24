@@ -19,16 +19,16 @@
   </a>
   
 </div >
-<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=WhiteSnow00&style=flat-square&color=blue"alt =""/> </p>
+<p align = "center"> <a href="https://www.youtube.com/watch?v=wefOI4tnW08"><img src = "https://komarev.com/ghpvc/?username=WhiteSnow00&style=flat-square&color=red"alt =""/></a> </p>
 
 <h1>
   Welcome To My Github Pages
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+</h1>                     
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=wefOI4tnW08"><img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaya.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=wefOI4tnW08"><img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaya.gif" /></a>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 I'm Weeb from VietNam.
