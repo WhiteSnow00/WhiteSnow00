@@ -1,6 +1,6 @@
 <p>
    <div id="header" align="center">
-  <img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaka.gif" />
+  <a href="https://www.youtube.com/watch?v=jtGt-_VZkp4"><img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaka.gif" /></a>
      <br>
 </div>
 <div align="center" id="badges">
