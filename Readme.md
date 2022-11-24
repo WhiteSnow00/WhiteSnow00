@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://i.imgur.com/jTZ7RZw.gif" width="600" height="350"/>
+  <img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaya.gif"/>
 </div>
 ---
 
