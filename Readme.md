@@ -13,9 +13,9 @@
     <img align="center"
          src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/ayaya_ayaya2">
+  <a href="https://t.me/sech_ayaya">
     <img align="center"
-         src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+         src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
 </div >
