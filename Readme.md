@@ -36,7 +36,7 @@ I'm Weeb from VietNam.
 
 -  I Spend Most Of My Time To Play Games
 
--  I Play Osu, Genshin Impact, And Arknights
+-  Osu, Genshin Impact And Arknights Player
 
 ### ⛄ Genshin Impact
 [![WhiteSnow00](https://genshin-card.getloli.com/58/76311298.png)](https://www.youtube.com/watch?v=5RvrTBMcIeo)
