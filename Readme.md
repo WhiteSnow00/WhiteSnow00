@@ -46,7 +46,7 @@ I'm Weeb from VietNam.
 
 <br />
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&show_icons=true&theme=react&locale=ja" alt="My stats" width="49.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&border_radius=0&show_icons=true&theme=react&locale=ja" alt="My stats" width="49.5%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=WhiteSnow00&theme=react&hide_border=false&border_radius=0&locale=ja" alt="streak" width="49.5%">
 </p>
 </p>
