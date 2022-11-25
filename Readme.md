@@ -44,7 +44,12 @@ I'm Weeb from VietNam.
 ---
 ### My Stats :
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSnow00&show_icons=true&include_all_commits=true&theme=rose_pine)](https://www.youtube.com/watch?v=WE9ZsbA2TXw)
+<br />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=WhiteSnow00&show_icons=true&theme=react&locale=ja" alt="My stats" width="49.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WhiteSnow00&theme=react&hide_border=true&border_radius=19&locale=ja" alt="streak" width="49.5%">
+</p>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&langs_count=10&theme=rose_pine)](https://www.youtube.com/watch?v=PSwR6c8iV6o)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSnow00&layout=compact&langs_count=10&theme=react&locale=ja)](https://www.youtube.com/watch?v=PSwR6c8iV6o)
 
