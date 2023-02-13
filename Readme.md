@@ -38,9 +38,6 @@ I'm Weeb from VietNam.
 
 -  Osu, Genshin Impact And Arknights Player
 
-### ⛄ Genshin Impact
-[![WhiteSnow00](https://genshin-card.getloli.com/58/76311298.png)](https://www.youtube.com/watch?v=5RvrTBMcIeo)
-
 ---
 ### My Stats :
 
